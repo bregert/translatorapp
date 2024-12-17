@@ -1,3 +1,3 @@
-file contains python code to a real-time translator application
+if your Pycharm is version 3.13 or greater use this for app to work
 
-currently unavailable, sorry
+------->pip install legacy-cgi
